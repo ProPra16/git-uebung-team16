@@ -1,5 +1,3 @@
-package de.hhu.propra16;
-
 /**
  * Created by Tobias Witt on 06.06.16.
  */
